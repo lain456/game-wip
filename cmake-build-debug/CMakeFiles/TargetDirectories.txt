@@ -1,0 +1,3 @@
+/home/lain/Desktop/learning_SDL/actual_learning/left_right/game-wip/cmake-build-debug/CMakeFiles/game_wip.dir
+/home/lain/Desktop/learning_SDL/actual_learning/left_right/game-wip/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lain/Desktop/learning_SDL/actual_learning/left_right/game-wip/cmake-build-debug/CMakeFiles/rebuild_cache.dir
